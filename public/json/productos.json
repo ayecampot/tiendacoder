@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombreCategoria": "camas",
+        "nombre": "Cama perros medianos",
+        "marca": "Nuvole",
+        "precio": 8500,
+        "stock": 30,
+        "img": "cama-1.png"
+    },
+    {
+        "id": 2,
+        "idCategoria": 1,
+        "nombreCategoria": "camas",
+        "nombre": "Cama perros pequeños/gatos",
+        "marca": "Nuvole",
+        "precio": 7400,
+        "stock": 15,
+        "img": "cama-2.png"
+    },
+    {
+        "id": 3,
+        "idCategoria": 1,
+        "nombreCategoria": "camas",
+        "nombre": "Cama soft",
+        "marca": "Nuvole",
+        "precio": 10500,
+        "stock": 15,
+        "img": "cama-3.png"
+    },
+    {
+        "id": 4,
+        "idCategoria": 2,
+        "nombreCategoria": "comederos",
+        "nombre": "Comedero moderno ",
+        "marca": "Quome",
+        "precio": 12300,
+        "stock": 30,
+        "img": "comedero.png"
+    },
+    {
+        "id": 5,
+        "idCategoria": 2,
+        "nombreCategoria": "comederos",
+        "nombre": "Comedero Automático",
+        "marca": "Quome",
+        "precio": 3200,
+        "stock": 9,
+        "img": "comedero-2.png"
+    },
+    {
+        "id": 6,
+        "idCategoria": 3,
+        "nombreCategoria": "juguetes",
+        "nombre": "jueguete perro/gato",
+        "marca": "Patitas",
+        "precio": 1200,
+        "stock": 20,
+        "img": "juego-5.png"
+    },
+    {
+        "id": 7,
+        "idCategoria": 3,
+        "nombreCategoria": "juguetes",
+        "nombre": "rascador gato",
+        "marca": "catflow",
+        "precio": 50000,
+        "stock": 10,
+        "img": "juego-gato-2.png"
+    },
+    {
+        "id": 8,
+        "idCategoria": 3,
+        "nombreCategoria": "juguetes",
+        "nombre": "rascador gato madera",
+        "marca": "catflow",
+        "precio": 60000,
+        "stock": 10,
+        "img": "juego-gato-3.png"
+    },
+    {
+        "id": 9,
+        "idCategoria": 3,
+        "nombreCategoria": "juguetes",
+        "nombre": "jueguete perro",
+        "marca": "Patitas",
+        "precio": 34000,
+        "stock": 20,
+        "img": "juego-perro-4.png"
+    },
+    {
+        "id": 10,
+        "idCategoria": 4,
+        "nombreCategoria": "alimento",
+        "nombre": "Royal Canin Alergia",
+        "marca": "Royal Canin",
+        "precio": 12500,
+        "stock": 25,
+        "img": "comida-1.png"
+    },
+    {
+        "id": 11,
+        "idCategoria": 4,
+        "nombreCategoria": "alimento",
+        "nombre": "Royal Canin Caniche",
+        "marca": "Royal Canin",
+        "precio": 4500,
+        "stock": 25,
+        "img": "comida-2.png"
+    },
+       {
+        "id": 12,
+        "idCategoria": 4,
+        "nombreCategoria": "alimento",
+        "nombre": "Exellent para gatos",
+        "marca": "Exellent",
+        "precio": 7500,
+        "stock": 25,
+        "img": "comida-3.png"
+    }
+
+]
