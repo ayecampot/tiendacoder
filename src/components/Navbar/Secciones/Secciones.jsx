@@ -8,9 +8,9 @@ const Secciones = () => {
                   <Link className="a-size nav-link"to={"/"}><img className="w-logo" src={collar} alt="collar de perrito size" /></Link>
            
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
                 <Link className="nav-link" to={"/contacto"}><button className="btn btn-primary">Contacto</button></Link>
-            </li>
+            </li> */}
         </>
     );
 }
