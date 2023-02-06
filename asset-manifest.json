@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tiendacoder/static/css/main.82323f8c.css",
+    "main.js": "/tiendacoder/static/js/main.13843ca3.js",
+    "static/media/collar.png": "/tiendacoder/static/media/collar.343c8e42f38c4809db91.png",
+    "index.html": "/tiendacoder/index.html",
+    "main.82323f8c.css.map": "/tiendacoder/static/css/main.82323f8c.css.map",
+    "main.13843ca3.js.map": "/tiendacoder/static/js/main.13843ca3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82323f8c.css",
+    "static/js/main.13843ca3.js"
+  ]
+}
