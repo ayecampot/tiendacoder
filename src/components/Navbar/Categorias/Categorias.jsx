@@ -7,10 +7,10 @@ const Categorias = () => {
             <button className="btn btn-primary">Categorias</button> 
           </a>
           <ul className="dropdown-menu">
-            <li><Link className="dropdown-item" to={"/category/camas"}>Camas</Link></li>
-            <li><Link className="dropdown-item" to={"/category/comederos"}>Comederos</Link></li>
-            <li><Link className="dropdown-item" to={"/category/juguetes"}>Juguetes</Link></li>
-            <li><Link className="dropdown-item" to={"/category/alimento"}>Alimento</Link></li>
+            <li><Link className="dropdown-item" to={"/categorias/camas"}>Camas</Link></li>
+            <li><Link className="dropdown-item" to={"/categorias/comederos"}>Comederos</Link></li>
+            <li><Link className="dropdown-item" to={"/categorias/juguetes"}>Juguetes</Link></li>
+            <li><Link className="dropdown-item" to={"/categorias/alimento"}>Alimento</Link></li>
           </ul>
         </li>
     );
